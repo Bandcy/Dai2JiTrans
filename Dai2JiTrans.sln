@@ -7,10 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dai2JiTrans", "Dai2JiTrans\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomLibrary", "RomLibrary\RomLibrary.csproj", "{28F8541E-DDA1-49D5-BA5F-03333304789F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binaries", "Binaries", "{D16E371A-6C93-4318-96DA-8FE9B820D08B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C99A033-0D5D-4ED5-A87B-BBA7F1E4E232}"
 	ProjectSection(SolutionItems) = preProject
-		D:\Games\Trans\Roms\Dai-2-Ji.tbl = D:\Games\Trans\Roms\Dai-2-Ji.tbl
-		D:\Games\Trans\Roms\Dai-2-Ji_Script00.txt = D:\Games\Trans\Roms\Dai-2-Ji_Script00.txt
+		Binaries\Dai-2-Ji.tbl = Binaries\Dai-2-Ji.tbl
+		Binaries\Dai-2-Ji_Script00.txt = Binaries\Dai-2-Ji_Script00.txt
 	EndProjectSection
 EndProject
 Global
